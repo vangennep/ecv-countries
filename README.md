@@ -8,4 +8,4 @@ src="https://vangennep.github.io/ecv-countries/ecv-countries-green/index.html" a
 <br>
 <br>
 
-Change green -> orange -> red for each portion. Modify height to fit plot length well. 
+Change green -> orange -> red for each portion. Modify height to fit plot length well. Autoscaling the height is on my to-do list. 
